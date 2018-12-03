@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "3094C5AA-A57E-48FB-A517-523CA06129BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F37B17E8-8F16-4E48-8F6A-39D6F7AECCD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9D9D6B44-ECAD-4DCE-9B6E-B9B5B912C5CD",
+    "height": 14,
+    "width": 12,
+    "x": 49,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/94059ea8b11dde292ec6039ee5ccd77254defd85.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 288,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "reblog Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF0E4543-970B-4B59-A5ED-7752EE10DC3F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
