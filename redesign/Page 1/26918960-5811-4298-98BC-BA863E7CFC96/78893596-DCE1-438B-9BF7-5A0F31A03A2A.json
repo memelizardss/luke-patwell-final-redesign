@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 28,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Whoopanotheruser sent a post"
+    "string": "Uhmoreuser sent a post"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 74,
     "y": 480
   },
-  "glyphBounds": "{{0, 3}, {206, 14}}",
+  "glyphBounds": "{{1, 3}, {159, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Whoopanotheruser sen Copy",
+  "name": "Uhmoreuser sent a po",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
