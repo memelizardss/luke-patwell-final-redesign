@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8D43C083-246E-4B74-8B65-0F0548DB519F",
+  "do_objectID": "13134A69-3968-4223-9671-236F6D837A56",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 111,
-    "y": 2365
+    "x": 595,
+    "y": 1545
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,38 +44,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
-      "id": "D9D3C572-01DD-4432-9CEF-58C4F5C76873"
+      "id": "DFFFE587-A431-4D1B-8BED-CDDD714CA262"
     },
     {
       "class": "rectangle",
-      "id": "E054FFE6-8EA8-4627-B5B6-7C3B715F7E60"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D02EFD2A-E601-4DA4-A779-1E90A1174A26"
-    },
-    {
-      "class": "rectangle",
-      "id": "F1FF2A50-DB81-4B66-8119-559524842AD6"
-    },
-    {
-      "class": "rectangle",
-      "id": "B795A9C1-60BA-4CFF-99A9-581EED23780D"
-    },
-    {
-      "class": "text",
-      "id": "8427BECD-667C-4FA2-921F-6564556C66B7"
-    },
-    {
-      "class": "rectangle",
-      "id": "BBFD3D09-093D-4465-926D-51955C75FE56"
+      "id": "222C3A8F-05BC-466D-B579-4BEB9C34704A"
     }
   ],
-  "name": "posts",
+  "name": "help",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

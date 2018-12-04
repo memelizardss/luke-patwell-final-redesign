@@ -3,19 +3,10 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "DFFFE587-A431-4D1B-8BED-CDDD714CA262",
+  "do_objectID": "BE7B5662-52A9-49AE-B75E-41EC690B03A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -26,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 667,
-    "width": 375,
-    "x": 595,
-    "y": 1545
+    "height": 21,
+    "width": 23,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/6f9c8e5add9e82b25a03af4eef67c576d187581d.png",
+    "_ref": "images/f34401dac88f7bcb8e4bb1a73d531d8796f5acd6.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -44,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Screenshot_20181203-125932",
+  "name": "Asset 11",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
