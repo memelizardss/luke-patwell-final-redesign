@@ -121,6 +121,62 @@
     {
       "class": "rectangle",
       "id": "FE8D51D7-727F-4CEA-B915-5C75C0F0D720"
+    },
+    {
+      "class": "text",
+      "id": "1D201E40-A4E6-4CFF-9357-2E52DD567ABA"
+    },
+    {
+      "class": "text",
+      "id": "D9784522-CF8E-47E3-A87B-23738F9A057F"
+    },
+    {
+      "class": "text",
+      "id": "DC206A15-56D4-41D3-B5E9-F27B9CF464D3"
+    },
+    {
+      "class": "text",
+      "id": "74520BA9-6576-4D06-AD0A-4D5829F23468"
+    },
+    {
+      "class": "text",
+      "id": "FC3A4D89-E1FA-4A48-8003-7C043D22B1C2"
+    },
+    {
+      "class": "text",
+      "id": "1034117F-3A8C-477C-BAEA-4C379D7037BD"
+    },
+    {
+      "class": "text",
+      "id": "0C0E0AC0-9363-4E32-82E9-0A832A3250F2"
+    },
+    {
+      "class": "text",
+      "id": "BE5159F8-70E5-4A0D-A53B-45F005DA30D5"
+    },
+    {
+      "class": "text",
+      "id": "CE8F7B0F-8C7A-480F-A301-CC8A931D68AC"
+    },
+    {
+      "class": "text",
+      "id": "A6E5E0A6-EB9C-4F9C-8721-C667202148FA"
+    },
+    {
+      "class": "text",
+      "id": "65A48805-B405-48D9-934C-F94ED1CBECC3"
+    },
+    {
+      "class": "text",
+      "id": "78893596-DCE1-438B-9BF7-5A0F31A03A2A"
+    },
+    {
+      "class": "text",
+      "id": "588B232A-ACFA-4D84-8218-0572B3064E52"
+    },
+    {
+      "class": "text",
+      "id": "16DB2B4F-22D1-4557-8A57-10120A557B57"
     }
   ],
   "name": "iPhone 8",
