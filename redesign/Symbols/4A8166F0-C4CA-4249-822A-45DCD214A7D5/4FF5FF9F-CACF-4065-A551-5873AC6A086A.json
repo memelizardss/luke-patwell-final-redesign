@@ -25,20 +25,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Activity"
+    "string": "Yourusername sent a post"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "185F22FA-F543-4E10-B253-456ACE58EA55",
+  "do_objectID": "4FF5FF9F-CACF-4065-A551-5873AC6A086A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A3B01206-747E-4B8A-9AEE-B2E233ACCABA",
+    "do_objectID": "15B12936-CE28-4686-B758-1BE3862FC00E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7834C704-E7D7-4E64-886A-55981DADDE59",
-    "height": 24,
-    "width": 135,
-    "x": 11,
-    "y": 336
+    "do_objectID": "BACAC7F7-7198-46A8-9254-E5D27C768AB8",
+    "height": 17,
+    "width": 198,
+    "x": 78,
+    "y": 287
   },
-  "glyphBounds": "{{0, 3}, {51, 15}}",
+  "glyphBounds": "{{0, 3}, {175, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Activity",
+  "name": "Yourusername sent a",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,13 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CD276A56-31C6-4584-8A2C-AF71EA46B00F",
+    "do_objectID": "E68FEA28-DAB5-4205-B719-A54B2BBDC22D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "96E2095F-35C9-448A-BFFA-3E14312713BA",
+      "do_objectID": "68344D2E-4520-40E2-9F92-56B0FEEAAC34",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

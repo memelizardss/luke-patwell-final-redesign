@@ -124,6 +124,10 @@
     },
     {
       "class": "text",
+      "id": "D5142D5F-F830-46E8-8B1E-9F288E2C8AD7"
+    },
+    {
+      "class": "text",
       "id": "1D201E40-A4E6-4CFF-9357-2E52DD567ABA"
     },
     {
@@ -181,10 +185,14 @@
     {
       "class": "text",
       "id": "158F0D43-8A1E-401B-93B1-13C23D168E08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F9B3C3E-A634-4B87-AFED-DCC6875A58ED"
     }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "messaging",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

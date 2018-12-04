@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "35436827-DE18-4379-880E-B946A7299EFD",
+  "do_objectID": "5AA576BE-09B1-4C45-B018-4128723A90D8",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BAB43E63-8E97-42F2-9B9E-1D0F3DA05998",
+    "do_objectID": "93C96F80-4F67-4133-8BEB-316D7F8074B3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6F3E40A-8901-4452-A391-3E23F1212264",
-    "height": 44,
-    "width": 297,
+    "do_objectID": "9003CEB6-26BF-4E3A-93C5-1D14B36C7382",
+    "height": 254,
+    "width": 375,
     "x": 0,
-    "y": 328
+    "y": 242
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,8 +33,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 3",
-  "nameIsFixed": false,
+  "name": "content 1",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "4101EEB9-DD75-43ED-A621-0453769D78A5",
+    "do_objectID": "059C592B-79DE-41BD-8C18-C0D82933FBFD",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,11 +108,16 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.403921568627451,
-          "green": 0.3019607843137255,
-          "red": 0.2352941176470588
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/bc4d817a9273b6f477a5b721d921fcad555392f2.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "folder": "/Volumes/FUCKLE/le cat",
+        "mode": "local"
+      }
+    }
   }
 }

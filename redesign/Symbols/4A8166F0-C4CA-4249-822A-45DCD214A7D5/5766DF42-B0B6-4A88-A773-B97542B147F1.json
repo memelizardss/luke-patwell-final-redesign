@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "35436827-DE18-4379-880E-B946A7299EFD",
+  "do_objectID": "5766DF42-B0B6-4A88-A773-B97542B147F1",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BAB43E63-8E97-42F2-9B9E-1D0F3DA05998",
+    "do_objectID": "6702CBF9-5DAF-43CE-87DD-EBA517B2E259",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6F3E40A-8901-4452-A391-3E23F1212264",
-    "height": 44,
-    "width": 297,
-    "x": 0,
-    "y": 328
+    "do_objectID": "96448EF0-5138-4F45-A5FA-3B91C16DF3DD",
+    "height": 38,
+    "width": 38,
+    "x": 21,
+    "y": 204
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 3",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "4101EEB9-DD75-43ED-A621-0453769D78A5",
+    "do_objectID": "D0DEB45D-ED35-41EA-8573-7480800DB16A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,11 +108,16 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.403921568627451,
-          "green": 0.3019607843137255,
-          "red": 0.2352941176470588
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/6a2cc9edd543c86711bdc9806b82d0aa4e44232b.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,13 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Love",
+        "mode": "unsplash"
+      }
+    }
   }
 }

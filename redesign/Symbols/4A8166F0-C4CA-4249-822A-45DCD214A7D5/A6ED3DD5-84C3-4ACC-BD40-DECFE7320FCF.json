@@ -25,20 +25,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Activity"
+    "string": "Ohsomanyusers"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "185F22FA-F543-4E10-B253-456ACE58EA55",
+  "do_objectID": "A6ED3DD5-84C3-4ACC-BD40-DECFE7320FCF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A3B01206-747E-4B8A-9AEE-B2E233ACCABA",
+    "do_objectID": "8AE4EAC2-8E6E-4436-ACA0-B3DB9F3A66AA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7834C704-E7D7-4E64-886A-55981DADDE59",
-    "height": 24,
-    "width": 135,
-    "x": 11,
-    "y": 336
+    "do_objectID": "92208B0C-BA0A-479F-B310-D87DE9090213",
+    "height": 17,
+    "width": 198,
+    "x": 78,
+    "y": 265
   },
-  "glyphBounds": "{{0, 3}, {51, 15}}",
+  "glyphBounds": "{{0, 3}, {110, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Activity",
+  "name": "Ohsomanyusers",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,13 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CD276A56-31C6-4584-8A2C-AF71EA46B00F",
+    "do_objectID": "5D5529F2-D71A-4585-8909-7FD885EB6DE6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "96E2095F-35C9-448A-BFFA-3E14312713BA",
+      "do_objectID": "D4C01F42-D1DA-4274-805C-80D25BDDE5F6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

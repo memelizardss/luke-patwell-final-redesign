@@ -25,20 +25,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Activity"
+    "string": "Anotheruser"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "185F22FA-F543-4E10-B253-456ACE58EA55",
+  "do_objectID": "EB5EA062-72E7-4691-AA86-8C766394A303",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A3B01206-747E-4B8A-9AEE-B2E233ACCABA",
+    "do_objectID": "63A72FB5-6B99-48B6-AFE4-6F27D9ED5080",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7834C704-E7D7-4E64-886A-55981DADDE59",
-    "height": 24,
-    "width": 135,
-    "x": 11,
-    "y": 336
+    "do_objectID": "191417AD-646B-457A-A59A-F2D69A1114F5",
+    "height": 17,
+    "width": 198,
+    "x": 79,
+    "y": 205
   },
-  "glyphBounds": "{{0, 3}, {51, 15}}",
+  "glyphBounds": "{{0, 3}, {84, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Activity",
+  "name": "Anotheruser",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,13 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CD276A56-31C6-4584-8A2C-AF71EA46B00F",
+    "do_objectID": "3BEA31A0-6183-4230-8F9F-56C5DDE04037",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "96E2095F-35C9-448A-BFFA-3E14312713BA",
+      "do_objectID": "C16280CB-150C-4DF0-8396-B97A229AE6C6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

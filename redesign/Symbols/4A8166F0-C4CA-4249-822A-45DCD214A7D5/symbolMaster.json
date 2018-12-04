@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 162,
+  "changeIdentifier": 5907,
   "clippingMaskMode": 0,
   "do_objectID": "4A8166F0-C4CA-4249-822A-45DCD214A7D5",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D1DC367F-A8D3-4D49-99E4-15119FA98B91",
-    "height": 316,
+    "height": 501,
     "width": 297,
     "x": 1372,
     "y": 8
@@ -123,10 +123,54 @@
     {
       "class": "triangle",
       "id": "320F67E4-E492-4F52-9CB7-2827AD9E54EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "C356CECC-2434-4066-9E2F-2C1F10647276"
+    },
+    {
+      "class": "rectangle",
+      "id": "5766DF42-B0B6-4A88-A773-B97542B147F1"
+    },
+    {
+      "class": "rectangle",
+      "id": "E7D9BE0C-92F0-4A8D-BA64-DD4115ED6101"
+    },
+    {
+      "class": "text",
+      "id": "BA4617EF-196B-4BE6-B639-4CC626554D55"
+    },
+    {
+      "class": "text",
+      "id": "EB5EA062-72E7-4691-AA86-8C766394A303"
+    },
+    {
+      "class": "text",
+      "id": "A6ED3DD5-84C3-4ACC-BD40-DECFE7320FCF"
+    },
+    {
+      "class": "text",
+      "id": "68078B8D-221D-4352-B824-F6591BCF5309"
+    },
+    {
+      "class": "text",
+      "id": "A7B2C010-A791-4031-AA06-422A38EBBE88"
+    },
+    {
+      "class": "text",
+      "id": "4FF5FF9F-CACF-4065-A551-5873AC6A086A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F077921-50F4-489A-A3C1-1CA11D7C0B2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E61D16CF-3F40-44C4-8595-9CBAE88A5AE8"
     }
   ],
-  "name": "menu default copy",
-  "nameIsFixed": false,
+  "name": "menu message extended",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
